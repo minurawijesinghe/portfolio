@@ -1166,7 +1166,7 @@ footer .credits a {
   outline: 0;
 }
 .buttonD:hover {
-  background-color: #232324;
+  background-color: #000000;
   color: #fff;
   transition: all 500ms ease;
 }
